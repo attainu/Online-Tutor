@@ -1,0 +1,20 @@
+{
+  "name": "Online-Tutor",
+  "version": "1.0.0",
+  "description": "Project by Vinay and Anjali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attainu/Online-Tutor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attainu/Online-Tutor/issues"
+  },
+  "homepage": "https://github.com/attainu/Online-Tutor#readme"
+}
